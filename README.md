@@ -1,2 +1,2 @@
-# ThuInternship
-Python code for Summer Internship with Dr Thu
+# Big Data for Health Equity Internship under Dr. Thu Nguyen
+Python code for Publications and Projects
